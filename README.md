@@ -24,4 +24,4 @@
 * 🏛️ **Architecture:** Modern Architectural Styles (including AI Orchestration), Resiliency, and Sync/Async Communication Patterns.
 
 ## 🌐 Connect:
-[Email](mailto:fransbompart@gmail.com) | [LinkedIn](https://linkedin.com/in/francisbompart)
+[Email](mailto:fransbompart@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francis-bompart-5b3702274/)
